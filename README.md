@@ -1,3 +1,3 @@
 # Python
 
-This repositories includes some python examples..
+This repositories includes some basic python examples..
